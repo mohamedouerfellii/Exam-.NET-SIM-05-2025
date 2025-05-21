@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Examen.ApplicationCore.Domain.Course>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<form asp-action="index">
+    <fieldset>
+        <legend> Recherche</legend>
+        Saisir un nom :
+        <input type="text" name="nom" />
+        <input type="submit" value="search" />
+    </fieldset>
+</form>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CoursetId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomCourse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateCourse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lieu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PisteFk)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CoursetId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomCourse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCourse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lieu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PisteFk)
+            </td>
+            <td>
+                @Html.ActionLink("Piste", "Details", "Piste", new { id = item.PisteFk })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\controllers\\pistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\controllers\\pistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\views\\piste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\piste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\domain\\piste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\piste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\services\\servicepiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicepiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\services\\servicecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\interfaces\\iservicepiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicepiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\interfaces\\iservicecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\services\\servicerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\servicerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\domain\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\interfaces\\iservicerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iservicerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.applicationcore\\domain\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|d:\\esprit\\4 arc-tic\\.net\\exam sim\\examen\\examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\excontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Piste\\Details.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Piste\\Details.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Piste\\Details.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Piste\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:55:09.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PisteController.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Controllers\\PisteController.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\PisteController.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Controllers\\PisteController.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Controllers\\PisteController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:54:08.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Course\\Details.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:53:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:44:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicePiste.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServicePiste.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServicePiste.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServicePiste.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServicePiste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:33:48.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Views\\Course\\Create.cshtml",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "Examen.UI.Web\\Views\\Course\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:32:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Course.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Course.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Course.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:58:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Program.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Program.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:29:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.UI.Web\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:29:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Piste.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Piste.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Piste.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Piste.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Piste.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:00:00.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceCourse.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServiceCourse.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceCourse.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServiceCourse.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:59:24.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServicePiste.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServicePiste.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServicePiste.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServicePiste.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServicePiste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:33:26.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IServiceCourse.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceCourse.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceCourse.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceCourse.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:57:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceRobot.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServiceRobot.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServiceRobot.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Services\\ServiceRobot.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServiceRobot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:55.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceRobot.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceRobot.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServiceRobot.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Interfaces\\IServiceRobot.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServiceRobot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:23.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Robot.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Robot.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Robot.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Robot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:55:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250521165045_CoursesRobotsOuerfelliMohamed.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20250521165045_CoursesRobotsOuerfelliMohamed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:50:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Participation.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Participation.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Participation.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.ApplicationCore\\Domain\\Participation.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Participation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:01:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EXContext.cs",
+              "DocumentMoniker": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\EXContext.cs",
+              "ToolTip": "D:\\ESPRIT\\4 ARC-TIC\\.NET\\exam SIM\\Examen\\Examen.Infrastructure\\EXContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\EXContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:09:39.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
